@@ -4,7 +4,7 @@ Also known as CJ, novice programmer looking to better my skills and expand my po
 
 I’m interested in Retro computing, video games, game development. My life goal is to develop my own video game engine. I also would like to create a few games of my own. 
 
-I’m currently learning C++, C, Python, Lua, C#... I find lessons on Udemy and do simple projects. In school I am finishing CS210(C++/Python) and working my way towards IT230(C#) and MAT243(Python). For gaming I'm most comfortable using Unity, however I'm considering jumping into Unreal Engine to get a feel for things.
+I’m currently learning C++, C, Python, Lua, C#... I find lessons on Udemy and do simple projects.
 
 I’m looking to collaborate on Video games, scripts for reverse engineering modding software.
 
